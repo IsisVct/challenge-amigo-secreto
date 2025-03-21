@@ -31,6 +31,9 @@ O **Amigo Secreto** permite que você:
 - **CSS3** para estilizar e deixar o layout bonito.
 - **JavaScript** para a interação com o usuário e manipulação da lista de participantes.
 
+## Imagem da tela
+![image](https://github.com/user-attachments/assets/fbdeb2e2-b2fe-4567-acdd-2c32e561d3d4)
+
 ## Como o código está organizado 📂
 
 ```plaintext
@@ -40,3 +43,5 @@ amigo-secreto/
 ├── app.js            # Código JavaScript que faz o projeto funcionar
 ├── index.html        # Página HTML onde tudo acontece
 └── README.md         # Documentação do projeto (o arquivo que você está lendo agora!)
+
+
